@@ -62,9 +62,6 @@
   <img src="https://skillicons.dev/icons?i=aws,gcp,linux,ubuntu,windows,bash,git,github,postman&perline=6" />
 </p>
 
----
-
-
 
 ---
 
