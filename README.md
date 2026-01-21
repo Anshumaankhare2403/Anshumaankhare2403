@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Anshumaankhare2403=anuraghazra&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Anshumaankhare2403&theme=radical)
