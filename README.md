@@ -64,12 +64,7 @@
 
 ---
 
-<!-- ===== ACHIEVEMENTS ===== -->
 
-## 🏆 GitHub Achievements
-🏅 Arctic Code Vault Contributor  
-⭐ Pull Shark  
-🔥 Continuous Committer  
 
 ---
 
@@ -85,49 +80,8 @@
 
 ---
 
-<!-- ===== STATS ===== -->
-
-## 📊 GitHub Activity & Stats
 
 
-
-
-
-
-
-👨‍💻 Web & Mobile App Developer
-
-
-🚀 I design and build scalable, high-performance applications
-that work seamlessly across web browsers and mobile platforms.
-
-
-🎨 Strong focus on clean UI, usability, and performance
-⚙️ Passionate about maintainable backend systems & APIs
-🧠 Love solving problems and turning ideas into production-ready solutions
-
-
-☁️ Web • Mobile • Cloud-first mindset
-
-🛠️ Skills & Technologies
-⚛️ Frontend & Mobile
-
-
-🧠 Backend
-
-
-🗄️ Databases
-
-
-☁️ Cloud, OS & Tools
-
-
-🏆 GitHub Achievements
-🏅 Arctic Code Vault Contributor
-⭐ Pull Shark
-🔥 Continuous Committer
-
-🎧 Currently Vibing To
 
 
 📊 GitHub Activity & Stats
