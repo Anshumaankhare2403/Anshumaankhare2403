@@ -8,9 +8,9 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=22&duration=3200&pause=1200&color=9BE9A8&center=true&vCenter=true&width=600&lines=Web+%26+Mobile+App+Developer;React+%7C+Flutter+%7C+Node+%7C+Cloud;Building+products%2C+not+just+projects" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-</p>
+</p> -->
 
 ---
 
@@ -37,7 +37,10 @@
 
 <!-- ===== SKILLS ===== -->
 
-## 🛠️ Skills & Technologies
+<p>
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=26&duration=2600&pause=1100&color=F7A76C&width=420&lines=Skills+%26+Technologies" />
+</p>
+
 
 ### ⚛️ Frontend & Mobile
 <p>
