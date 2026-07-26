@@ -208,9 +208,9 @@ Repeat
 
 <p align="center">
 
-<a href="https://open.spotify.com/user/31ann7tazrtpelprit6j46oo3ive">
+<a href="https://music.youtube.com/watch?v=ILESi7_aY8o&si=nOsObZ4Kdfspvsow">
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ann7tazrtpelprit6j46oo3ive&cover_image=true&theme=novatorem&type=compact&background_color=0d1117"/>
+<img src="https://music.youtube.com/watch?v=ILESi7_aY8o&si=nOsObZ4Kdfspvsow"/>
 
 </a>
 
