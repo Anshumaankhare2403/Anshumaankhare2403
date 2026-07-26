@@ -1,324 +1,47 @@
-<!-- ========================================================= -->
-<!--                         BANNER                             -->
-<!-- ========================================================= -->
-
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7F5AF0,100:2CB67D&text=Anshumaan%20Khare&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Linux%20Explorer%20|%20Cloud%20Learner&descAlignY=58"/>
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+Products+That+Solve+Problems;Software+Developer;Linux+%7C+Cloud+%7C+AI+Explorer;Always+Learning+Something+New;Welcome+to+My+GitHub!" />
-</p>
-
-<p align="center">
-  <a href="https://music.youtube.com/watch?v=ILESi7_aY8o&si=Vpi0PKcYGKPRn6b0">
-    <img src="https://img.shields.io/badge/Now%20Playing-Open%20in%20YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Open my featured track in YouTube Music" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,45:182848,100:7F5AF0&text=Anshumaan%20Khare&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Linux%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=58&descSize=18" alt="Anshumaan Khare space-themed banner" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Anshumaankhare2403?tab=followers">
-    <img src="https://img.shields.io/github/followers/Anshumaankhare2403?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=161B22" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/Anshumaankhare2403?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=050816" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/Anshumaankhare2403">
-    <img src="https://komarev.com/ghpvc/?username=Anshumaankhare2403&style=for-the-badge&color=2CB67D&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=Anshumaankhare2403&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
----
+## Mission Control
 
-# 👋 Hello, I'm Anshumaan Khare
+I'm **Anshumaan Khare**, an MCA student and software developer who enjoys building practical products from the ground up. I am currently exploring the systems behind modern applications—from Linux and backend APIs to cloud infrastructure and AI.
 
-```bash
-> whoami
+## Current Orbit
 
-Anshumaan Khare
+- Building full-stack and mobile applications
+- Learning Linux administration, Docker, and DevOps
+- Exploring cloud infrastructure and artificial intelligence
+- Developing **AKOS**, a custom desktop experience with Electron, React, and Linux
 
-Software Developer
-
-Currently pursuing MCA.
-
-Passionate about building software,
-exploring Linux,
-learning Cloud Computing,
-and creating products that solve real-world problems.
-
-Mission:
-Build technology that makes people's lives easier.
-```
-
----
-
-
-# 💡 About Me
-
-I'm someone who enjoys building things from scratch.
-
-I believe the best way to learn is by creating real-world projects rather than only watching tutorials.
-
-I'm currently exploring
-
-- Linux Administration
-- Cloud Computing
-- Artificial Intelligence
-- Backend Engineering
-- Mobile Development
-- System Design
-- Open Source
-
-Outside coding you'll probably find me listening to music while experimenting with new ideas.
+## Toolkit
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,docker,react,nodejs,java,python,git,github&theme=dark" alt="Linux, Docker, React, Node.js, Java, Python, Git, and GitHub" />
 </p>
 
----
-
-# 🎯 Current Mission
-
-```text
-Learn.
-
-Build.
-
-Break.
-
-Fix.
-
-Repeat.
-
-Every single day.
-```
-
----
-
-# 🏆 What I'm Building
-
-### 🚀 AKOS
-
-A custom operating system project evolving into a modern desktop experience powered by
-
-- Electron
-- React
-- Linux
-
----
-
-### ☁️ Home Server Lab
-
-Building my own server for
-
-- Docker
-- Nginx
-- Linux
-- Virtualization
-- Cloud Experiments
-
----
-
-### 📱 Mobile Apps
-
-Creating cross-platform applications focused on
-
-- Performance
-- Great UI
-- Real-world usability
-
----
-
-### 🌐 Full Stack Applications
-
-Building complete applications from frontend to backend while continuously improving architecture and scalability.
-
----
-
-# 📈 Goals
-
-- Build software used by thousands of people
-- Become an excellent Software Engineer
-- Master Linux
-- Master Cloud Computing
-- Learn Artificial Intelligence
-- Contribute to Open Source
-- Build SaaS Products
-- Never Stop Learning
-
----
-
-# 💻 Developer Philosophy
-
-> "Great software isn't written in one day.
-
-> It's built through thousands of small improvements."
-
----
-
-# 🖥️ Terminal
-
-```bash
-guest@github:~$ whoami
-
-Anshumaan Khare
-
-guest@github:~$ current_status
-
-Building...
-
-guest@github:~$ current_focus
-
-Linux
-Cloud
-Artificial Intelligence
-Backend
-Mobile
-System Design
-
-guest@github:~$ life
-
-Eat
-Code
-Music
-Sleep
-Repeat
-```
-
----
-
-# 🎧 Coding Soundtrack
+## Contribution Snake
 
 <p align="center">
-  <a href="https://music.youtube.com/watch?v=ILESi7_aY8o&si=Vpi0PKcYGKPRn6b0">
-    <img src="https://img.shields.io/badge/▶%20Play%20my%20featured%20track-YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Play featured track on YouTube Music" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anshumaankhare2403">
+    <img src="https://img.shields.io/badge/GitHub-Anshumaankhare2403-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="Visit Anshumaan's GitHub profile" />
   </a>
 </p>
 
 <p align="center">
-
-<a href="https://music.youtube.com/watch?v=ILESi7_aY8o&si=nOsObZ4Kdfspvsow">
-
-<img src="https://music.youtube.com/watch?v=ILESi7_aY8o&si=nOsObZ4Kdfspvsow"/>
-
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anshumaankhare2403&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshumaankhare2403&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Anshumaankhare2403&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anshumaankhare2403&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anshumaankhare2403&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anshumaankhare2403&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anshumaankhare2403&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshumaankhare2403&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/Anshumaankhare2403">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Anshumaankhare2403&style=for-the-badge&color=blueviolet"/>
-
-</p>
-
----
-
-# ⚡ Fun Facts
-
-- 🎧 I love coding while listening to music.
-- 🐧 Linux is my favorite learning playground.
-- 🚀 I enjoy building products more than following tutorials.
-- ☁️ I'm fascinated by Cloud Infrastructure.
-- 💡 I believe consistency beats talent.
-
----
-
-# ✨ Quote
-
-> **"Don't count the hours you code. Count the problems you solve."**
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2CB67D,100:7F5AF0"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F5AF0,55:182848,100:050816" alt="Space-themed footer" />
 </p>
