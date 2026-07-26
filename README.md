@@ -10,6 +10,21 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Building+Products+That+Solve+Problems;Software+Developer;Linux+%7C+Cloud+%7C+AI+Explorer;Always+Learning+Something+New;Welcome+to+My+GitHub!" />
 </p>
 
+<p align="center">
+  <a href="https://music.youtube.com/watch?v=ILESi7_aY8o&si=Vpi0PKcYGKPRn6b0">
+    <img src="https://img.shields.io/badge/Now%20Playing-Open%20in%20YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Open my featured track in YouTube Music" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Anshumaankhare2403?tab=followers">
+    <img src="https://img.shields.io/github/followers/Anshumaankhare2403?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=161B22" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/Anshumaankhare2403">
+    <img src="https://komarev.com/ghpvc/?username=Anshumaankhare2403&style=for-the-badge&color=2CB67D&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+</p>
+
 ---
 
 # 👋 Hello, I'm Anshumaan Khare
@@ -34,45 +49,6 @@ Build technology that makes people's lives easier.
 
 ---
 
-# 🚀 My Journey
-
-```
-2021
-│
-├── Started Programming
-│
-2022
-│
-├── Built my first websites
-│
-2023
-│
-├── Learned Full Stack Development
-│
-2024
-│
-├── Started Mobile App Development
-│
-├── Built Backend APIs
-│
-└── Worked on Real Projects
-│
-2025
-│
-├── Started MCA
-├── Started Learning Linux
-├── Started Cloud Journey
-└── Started Building AKOS
-│
-2026
-│
-├── Learning DevOps
-├── Learning AI
-├── Building Personal Servers
-└── Building Better Products Every Day
-```
-
----
 
 # 💡 About Me
 
@@ -91,6 +67,10 @@ I'm currently exploring
 - Open Source
 
 Outside coding you'll probably find me listening to music while experimenting with new ideas.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,react,nodejs,java,python,git,github&theme=dark" alt="Linux, Docker, React, Node.js, Java, Python, Git, and GitHub" />
+</p>
 
 ---
 
@@ -205,6 +185,12 @@ Repeat
 ---
 
 # 🎧 Coding Soundtrack
+
+<p align="center">
+  <a href="https://music.youtube.com/watch?v=ILESi7_aY8o&si=Vpi0PKcYGKPRn6b0">
+    <img src="https://img.shields.io/badge/▶%20Play%20my%20featured%20track-YouTube%20Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" alt="Play featured track on YouTube Music" />
+  </a>
+</p>
 
 <p align="center">
 
