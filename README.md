@@ -2,12 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,45:182848,100:7F5AF0&text=Anshumaan%20Khare&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Linux%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18" alt="Anshumaan Khare space-themed banner" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Anshumaankhare2403?tab=followers">
-    <img src="https://img.shields.io/github/followers/Anshumaankhare2403?label=Followers&style=for-the-badge&color=7F5AF0&labelColor=050816" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Anshumaankhare2403&style=for-the-badge&color=38BDF8&label=PROFILE+VIEWS" alt="Profile views" />
-</p>
+
 
 ## Mission Control
 
