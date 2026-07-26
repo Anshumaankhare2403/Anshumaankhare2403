@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,45:182848,100:7F5AF0&text=Anshumaan%20Khare&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Linux%20%E2%80%A2%20Cloud%20%E2%80%A2%20AI&descAlignY=58&descSize=18" alt="Anshumaan Khare space-themed banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,45:182848,100:7F5AF0&text=Anshumaan%20Khare&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Linux%20%E2%80%A2%20Cloud&descAlignY=58&descSize=18" alt="Anshumaan Khare space-themed banner" />
 </p>
 
 <p align="center">
@@ -11,14 +11,13 @@
 
 ## Mission Control
 
-I'm **Anshumaan Khare**, an MCA student and software developer who enjoys building practical products from the ground up. I am currently exploring the systems behind modern applications—from Linux and backend APIs to cloud infrastructure and AI.
+I'm **Anshumaan Khare**, an MCA student and software developer who enjoys building practical products from the ground up. I am currently exploring the systems behind modern applications—from Linux and backend APIs to cloud infrastructure.
 
 ## Current Orbit
 
 - Building full-stack and mobile applications
 - Learning Linux administration, Docker, and DevOps
-- Exploring cloud infrastructure and artificial intelligence
-- Developing **AKOS**, a custom desktop experience with Electron, React, and Linux
+- Exploring cloud infrastructure and system design
 
 ## Toolkit
 
