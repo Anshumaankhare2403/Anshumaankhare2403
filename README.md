@@ -11,7 +11,7 @@
 
 ## Mission Control
 
-I'm **Anshumaan Khare**, an MCA student and software developer who enjoys building practical products from the ground up. I am currently exploring the systems behind modern applications—from Linux and backend APIs to cloud infrastructure.
+I'm **Anshumaan Khare**, a Software Developer and Cloud Engineer who enjoys building practical products from the ground up. I work across Linux, backend APIs, and cloud infrastructure.
 
 ## Current Orbit
 
@@ -22,7 +22,7 @@ I'm **Anshumaan Khare**, an MCA student and software developer who enjoys buildi
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,react,nodejs,java,python,git,github&theme=dark" alt="Linux, Docker, React, Node.js, Java, Python, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure,react,nodejs,js,java,python,git,github&theme=dark" alt="Linux, Docker, AWS, Azure, React, Node.js, JavaScript, Java, Python, Git, and GitHub" />
 </p>
 
 ## Contribution Snake
