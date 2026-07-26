@@ -24,16 +24,29 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Poppins&size=26&duration=3000&pause=1200&color=C77DFF&width=300&lines=About+Me" />
 </p>
 
-<p>
-  👨‍💻 <b>Web & Mobile App Developer</b><br><br>
-  🚀 I design and build <b>scalable, high-performance applications</b>
-  that work seamlessly across <b>web browsers and mobile platforms</b>.<br><br>
-  🎓 Currently pursuing an <b>MCA at JAIN University</b> (2025–2027)<br>
-  🎨 Strong focus on <b>clean UI, usability, and performance</b><br>
-  ⚙️ Passionate about <b>maintainable backend systems & APIs</b><br>
-  🧠 Love solving problems and turning ideas into <b>production-ready solutions</b><br><br>
-  ☁️ <i>Web • Mobile • Cloud-first mindset</i>
-</p>
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <p>
+        👨‍💻 <b>Web & Mobile App Developer</b><br><br>
+        🚀 I design and build <b>scalable, high-performance applications</b>
+        that work seamlessly across <b>web browsers and mobile platforms</b>.<br><br>
+        🎓 Currently pursuing an <b>MCA at JAIN University</b> (2025–2027)<br>
+        🎨 Strong focus on <b>clean UI, usability, and performance</b><br>
+        ⚙️ Passionate about <b>maintainable backend systems & APIs</b><br>
+        🧠 Love solving problems and turning ideas into <b>production-ready solutions</b><br><br>
+        ☁️ <i>Web • Mobile • Cloud-first mindset</i>
+      </p>
+    </td>
+    <td width="40%" valign="top" align="center">
+      <b>🎵 Now Playing</b><br><br>
+      <a href="https://music.youtube.com/watch?v=ILESi7_aY8o">
+        <img src="https://img.youtube.com/vi/ILESi7_aY8o/hqdefault.jpg" width="260" style="border-radius:12px" /><br>
+        <img src="https://img.shields.io/badge/▶%20Play%20on-YT%20Music-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
