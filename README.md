@@ -59,13 +59,6 @@ I enjoy working across the stack — from **React interfaces and REST APIs** to 
   </picture>
 </p>
 
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/Anshumaankhare2403">
-    <img src="https://img.shields.io/badge/GitHub-Anshumaankhare2403-7F5AF0?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F5AF0,55:182848,100:050816" alt="Space-themed footer" />
