@@ -39,15 +39,7 @@ I enjoy working across the stack — from **React interfaces and REST APIs** to 
 - 🧠 DSA implementations in JavaScript and Python
 - 🏗️ Projects involving system design and backend architecture
 
-## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anshumaankhare2403&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Anshumaan Khare GitHub statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anshumaankhare2403&theme=transparent&hide_border=true" alt="Anshumaan Khare GitHub contribution streak" />
-</p>
 
 ## 🐍 Contribution Snake
 
