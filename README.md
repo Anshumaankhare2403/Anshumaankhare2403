@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050816,45:182848,100:7F5AF0&text=Anshumaan%20Khare&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Linux%20%E2%80%A2%20Cloud-AWS&descAlignY=58&descSize=18" alt="Anshumaan Khare space-themed banner" />
-</p>
-
 ## 👨‍💻 About Me
 
 I'm **Anshumaan Khare**, a **Software Developer** focused on building full-stack web and mobile applications and learning how to design, deploy, and manage cloud-based systems.
@@ -40,18 +36,3 @@ I enjoy working across the stack — from **React interfaces and REST APIs** to 
 - 🏗️ Projects involving system design and backend architecture
 
 
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Anshumaankhare2403/Anshumaankhare2403/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F5AF0,55:182848,100:050816" alt="Space-themed footer" />
-</p>
